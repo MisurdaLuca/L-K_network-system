@@ -1,5 +1,8 @@
-![Logo](https://uni-obuda.hu/wp-content/uploads/2021/11/kep3.jpg)
-# L&K Network System
+<p align="left">
+  <img src="https://aml.nik.uni-obuda.hu/themes/aml/assets/images/oe_nik_modern.png" width="1800" height="190" />
+</p>
+
+# 🛒🛍️✨ L&K (Retail Clothing Store) Network System
 
 ## Status: Finished
 
@@ -9,7 +12,7 @@ This project was developed as a **university coursework** for the **Operating Sy
 
 It showcases infrastructure planning and documentation skills in a practical, scenario-based environment.
 
-The **L&K Network System** project is a fictional computer network design created for a retail **clothing store**. It simulates the planning and implementation of a secure, scalable IT infrastructure suitable for a real-world business environment.
+The **L&K Network System** project is a fictional computer network design created for a **retail clothing store**. It simulates the planning and implementation of a secure, scalable IT infrastructure suitable for a real-world business environment.
 
 The goal is to design a network that ensures stable internal communication, internet access, and support for point-of-sale systems, surveillance, and administrative tasks.
 
