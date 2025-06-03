@@ -1,38 +1,38 @@
-# Flood Level Prediction for Hungary 🇭🇺 🌊
+# L&K Network System
 
-**Status:** 🔄 *Data collection in progress*
+**Status:** 🛠️ Project under development
 
-## 📌 Overview
+## 📘 Overview
 
-Flooding is a major seasonal challenge in Hungary, particularly along the **Danube** and **Tisza** rivers, where many people live close to the water. Sudden water level rises can pose serious threats to homes, infrastructure, and communities.
+The **L&K Network System** project is a fictional computer network design created for a retail **clothing store**. It simulates the planning and implementation of a secure, scalable IT infrastructure suitable for a real-world business environment.
 
-This project aims to build a machine learning model that can **predict water level changes 1–2 weeks in advance**, using publicly available **daily data from the Hungarian Water Directorate General**.
+The goal is to design a network that ensures stable internal communication, internet access, and support for point-of-sale systems, surveillance, and administrative tasks.
 
-By issuing early warnings as water levels approach critical thresholds, the model will help people better **prepare for potential floods in time**.
+## 🎓 Educational Context
 
-## 🧪 Current Phase
+This project was developed as a **university coursework** for the **Operating Systems** subject at **Óbuda University**, as part of the **Computer Engineering BSc program**.
 
-- 🔍 Researching and exploring official data sources  
-- 📥 Collecting and cleaning historical water level data  
-- 🛠️ Planning feature engineering and model architecture  
+It showcases infrastructure planning and documentation skills in a practical, scenario-based environment.
 
-## 🚀 Future Plans
+## 📄 Documentation
 
-- Implement predictive models for flood forecasting  
-- Add support for **inland flood** and **drought risk** predictions  
-- Create a **web-based interface or alert system**  
-- Expand to other river systems and regions  
+A detailed technical report is included:
 
-## 📁 Data Sources (planned)
+- 📄 [`L&K_network_system_documentation.pdf`](L&K_network_system_documentation.pdf)  
+  Contents:
+  - Network topology (physical & logical)
+  - IP address planning and subnetting
+  - Device selection (switches, routers, workstations)
+  - Network services and security features
+  - Budget estimation and future scalability
 
-- Hungarian Water Directorate General (OVF)  
-- Historical hydrological datasets (open access)  
-- Satellite and weather data (optional)
+## 📁 Repository Contents
 
-## 📌 Goal
+- `L&K_network_system_documentation.pdf` – Full project documentation  
+- `README.md` – This file  
 
-Build a practical, open-source tool that supports **flood preparedness and early warning systems** in Hungary using modern AI techniques.
+## 🚀 How to Use
 
----
-
-*Stay tuned — more updates coming soon!*
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/MisurdaLuca/L-K_network-system.git
