@@ -1,6 +1,7 @@
+![Logo](https://uni-obuda.hu/wp-content/uploads/2021/11/kep3.jpg)
 # L&K Network System
 
-**Status:** 🛠️ Project under development
+**Status:** 🛠️ Finished
 
 ## 📘 Overview
 
